@@ -8,4 +8,5 @@
 8.Git is interesting.
 9.Conflict test -- edited by master&conflict_test.
 10.Branch manage test -- by dev.
-11.bug? -- by master.
+11.bug? Bug and stash. -- by master & dev.
+
