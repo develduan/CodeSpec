@@ -6,3 +6,4 @@
 6.stage stage stage!!!
 7.I created a new branch named dev.
 8.Git is interesting.
+9.Conflict test -- edited by master.
