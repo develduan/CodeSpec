@@ -4,3 +4,4 @@
 4.Nothing interesting.
 5.Git have a index called stage.
 6.stage stage stage!!!
+7.I created a new branch named dev.
